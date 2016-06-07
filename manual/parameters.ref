@@ -1,0 +1,2 @@
+elastic.hosts           Array with the Elastic servers
+elastic.retries         Number of retries for an Elastic connection

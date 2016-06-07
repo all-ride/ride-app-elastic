@@ -1,0 +1,11 @@
+{
+    "dependencies": [
+        {
+            "interfaces": "Elasticsearch\\Client",
+            "factory": {
+                "interface": "ride\\application\\elastic\\ClientFactory",
+                "method": "createClient"
+            }
+        }
+    ]
+}
